@@ -1,6 +1,1 @@
-sdfdsfdsfdsf
-sdfsd
-fsd
-fds
-
-add elso
+print("Hello World!")
